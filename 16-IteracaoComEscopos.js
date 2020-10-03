@@ -6,4 +6,4 @@ console.log('i =',i)
 for(let j = 0; j<10; j++){
     console.log(j)
 }
-console.log('i =',j) //vai dar erro, pois j dá como não definido,(let não é visualizado fora do bloco)
+console.log('i =',j) //vai dar erro, pois j não definido nesse escopo,(let não é visualizado fora do bloco)
