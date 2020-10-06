@@ -1,3 +1,3 @@
 "# fundamentosJs" 
 
-pasta para estudo de fundamentos Js
+Repositrio criado para estudo e sobre o JavaScript
